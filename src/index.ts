@@ -8,7 +8,8 @@ app.get('/',(req:Request,res:Response)=>{
     res.json({
         message: "Hello Mrs Amiisha Laki welcome to TypeScript",
         status: 'You are Legend',
-        fariin
+        fariin,
+        anotherMessage
 
     })
 })
